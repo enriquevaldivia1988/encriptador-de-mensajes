@@ -117,6 +117,22 @@ button:hover {
     margin-bottom: 20px;
 }
 
+/* Add this to the style.css file */
+footer {
+    background-color: #0A3871;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 1rem;
+}
+
+footer p {
+    margin: 0;
+    color: #ffffff;
+}
+
 /* Responsive styles */
 @media (max-width: 768px) {
     main {

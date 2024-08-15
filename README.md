@@ -1,6 +1,6 @@
 # 🔐 **Proyecto de Encriptación de Textos** 📝
 
-¡Bienvenidos y bienvenidas al primer desafío de encriptación de textos! 🎉 Durante cuatro emocionantes semanas, vamos a construir una aplicación que te permitirá enviar mensajes secretos utilizando un método de encriptación especial. 🔒
+¡Bienvenido a mi proyecto de encriptación de textos! 🎉 He desarrollado esta aplicación para permitir el envío de mensajes secretos utilizando un método de encriptación especial. 🔒
 
 ## 🚀 **¿Qué hace esta aplicación?**
 
